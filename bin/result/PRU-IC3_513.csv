@@ -1,0 +1,514 @@
+3in1_file_path,3in1_sorting_clause,3in1_time,3in1_k,3in1_solver,3in1_neg_state,3in1_num_s,3in1_num_t,3in1_num_gen,3in1_status,3in1_frame_sizes,3in1_elapsed_time
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/large/microwave01.lus,base,0.503,3,78,2,0,0,Not Found,safe,1 0,0.965
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/large/microwave06.lus,base,2.479,4,568,13,0,0,Not Found,timeout,5 3 2 1,290.16
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/large/microwave07.lus,base,2.868,4,660,14,2,1,Not Found,timeout,6 3 2 1,290.34
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/large/microwave08.lus,base,0.525,1,30,3,0,0,Not Found,timeout,3,290.24
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/large/microwave09.lus,base,277.546,3,1623,26,0,0,Not Found,timeout,23 21 20,290.194
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/large/microwave10.lus,base,263.741,18,29888,113,0,1,Not Found,timeout,46 40 39 38 37 36 35 34 33 32 31 30 29 28 27 26 25 24,290.198
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/large/microwave11.lus,base,208.742,5,9952,108,0,3,Not Found,timeout,25 23 22 21 20,290.157
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/large/microwave13.lus,base,16.998,8,2649,27,0,1,Not Found,timeout,12 9 6 5 4 3 2 1,290.216
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/large/microwave14.lus,l1l2,0.859,2,66,5,0,0,Not Found,unsafe,0,1.374
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/large/microwave17.lus,base,1.239,3,285,8,0,0,Not Found,safe,8 4,1.681
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/large/microwave18.lus,l1l2,0.954,1,43,4,0,0,Not Found,unsafe,2,1.394
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/large/microwave19.lus,base,1.914,3,254,8,0,0,Not Found,safe,7 3,2.412
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/large/microwave23.lus,l1l2,1.225,1,43,4,0,0,Not Found,unsafe,0,1.577
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/large/microwave24.lus,base,7.172,4,459,9,0,0,Not Found,safe,3 1 0,7.891
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/large/microwave26.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.118
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/large/microwave27.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.117
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/large/microwave28.lus,l2l1,0.954,2,53,4,0,0,Not Found,unsafe,0,1.376
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/large/microwave29.lus,base,4.81,3,507,14,0,0,Not Found,safe,15 7,5.528
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/large/microwave30.lus,l1l2,4.973,2,145,7,0,0,Not Found,safe,7,5.635
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/large/microwave31.lus,l1l2,6.519,2,89,5,0,0,Not Found,unsafe,5,7.167
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/large/microwave34.lus,l1l2,4.726,1,132,9,0,0,Not Found,unsafe,9,6.05
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/large/microwave36.lus,l2l1,4.911,1,145,11,0,0,Not Found,unsafe,0,5.589
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/large/microwave37.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.114
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/large/microwave38.lus,l1l2,44.646,1,231,14,0,0,Not Found,unsafe,14,148.432
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_11.lus,base,18.024,2,8165,61,2,0,Not Found,timeout,116 59,290.388
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_11_e1_2450_e2_1483.lus,base,182.596,4,23614,97,4,5,Not Found,timeout,158 107 84 64,290.387
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_11_e2_1678_e1_3565.lus,base,224.684,5,28527,121,6,3,Not Found,timeout,110 72 59 53 47,290.242
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_11_e2_5396_e3_282.lus,base,0.509,2,340,10,2,0,Not Found,timeout,14 8,290.447
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_11_e3_382_e1_505.lus,base,231.996,6,28648,136,7,18,Not Found,timeout,121 109 93 74 56 39,290.261
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_11_e3_382_e4_4421.lus,base,33.079,4,11857,68,5,5,Not Found,timeout,117 106 84 41,290.241
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_12.lus,base,1.147,4,775,14,2,1,Not Found,safe,13 10 6,1.53
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_12_e2_1618.lus,base,0.901,5,652,10,3,0,Not Found,safe,9 6 5 3,1.281
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_12_e2_1618_e1_6030.lus,base,1.303,5,893,15,3,1,Not Found,safe,8 6 5 3,1.687
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_12_e2_1618_e2_138.lus,l1l2,0.842,4,563,9,1,0,Not Found,safe,10 6 4,1.161
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_12_e2_1618_e3_2012.lus,base,1.903,6,1283,18,3,3,Not Found,safe,15 13 12 9 5,2.279
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_13.lus,l1l2,4.096,3,2225,34,6,0,Not Found,safe,37 32 23,4.976
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_13_e3_1418_e3_2761.lus,base,3.252,5,1978,27,9,1,Not Found,safe,29 25 17 7,3.941
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_14.lus,base,277.131,12,43106,163,13,33,Not Found,timeout,173 168 161 159 157 155 149 138 120 91 62 31,290.183
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_14_e1_5710.lus,base,237.422,13,33926,103,13,24,Not Found,timeout,64 57 51 49 46 44 40 37 33 28 23 17 12,290.19
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_14_e2_3606.lus,base,219.993,12,29241,92,13,11,Not Found,timeout,81 76 71 67 65 63 60 55 45 33 16 9,290.202
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_14_e3_1259_e1_5798.lus,base,54.661,10,14647,61,12,9,Not Found,timeout,41 34 29 28 26 23 21 18 12 7,290.358
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_14_e3_5120.lus,base,75.504,11,17085,65,12,8,Not Found,timeout,53 48 42 38 35 32 29 27 22 16 10,290.272
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_14_e7_3162.lus,l2l1,0.582,2,294,11,2,0,Not Found,unsafe,12 6,0.975
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_14_e7_3162_e1_3998.lus,l1l2,0.66,2,353,11,1,0,Not Found,unsafe,13 5,1.018
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_14_e7_3162_e2_753.lus,base,0.649,2,315,13,1,0,Not Found,unsafe,14 9,1.034
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_14_e7_3162_e3_4298.lus,l2l1,0.468,2,214,10,1,0,Not Found,unsafe,9 4,0.806
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_14_e7_3162_e7_3528.lus,l2l1,0.443,2,225,7,0,0,Not Found,unsafe,10 6,0.772
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_4.lus,base,2.172,5,1593,20,7,0,Not Found,safe,26 21 15 6,2.549
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_4_e1_4312.lus,base,2.056,5,1478,19,6,0,Not Found,safe,17 12 8 3,2.444
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_4_e2_2799.lus,l2l1,2.568,4,1605,21,7,0,Not Found,safe,26 21 14 6,4.204
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_4_e2_2799_e1_1303.lus,l2l1,3.584,5,2296,21,5,0,Not Found,safe,30 25 20 9,3.873
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_4_e2_2799_e2_2251.lus,base,2.257,5,1797,22,7,2,Not Found,safe,28 23 16 8,2.647
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_4_e2_2799_e3_1915.lus,base,2.843,5,2085,25,8,0,Not Found,safe,33 28 20 8,3.227
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_4_e3_1540_e1_5048.lus,base,1.544,4,1169,17,5,0,Not Found,safe,19 14 6,1.996
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_4_e3_4133.lus,l2l1,1.698,4,1204,19,6,0,Not Found,safe,23 18 7,2.328
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_5.lus,base,0.404,4,332,7,1,0,Not Found,safe,8 6 3,0.788
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_5_e1_1835.lus,base,0.471,4,352,7,2,0,Not Found,safe,8 6 3,0.842
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_5_e2_3018_e2_936.lus,l1l2,0.493,4,368,8,1,0,Not Found,safe,9 6 3,0.865
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_8.lus,base,0.621,5,492,11,2,1,Not Found,safe,12 11 7 4,1
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_8_e3_786_e7_4541.lus,l1l2,0.373,3,260,7,2,0,Not Found,safe,6 5 2,0.718
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_8_e7_3752.lus,l1l2,0.578,4,402,12,3,1,Not Found,safe,5 4 2 1,0.919
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_all2.lus,l1l2,2.367,4,1350,24,4,0,Not Found,safe,18 14 7,2.656
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_all2_e3_4612_e1_6463.lus,base,2.512,4,1280,25,4,0,Not Found,safe,17 13 7,2.925
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_all2_e3_4612_e2_5774.lus,base,2.256,5,1107,22,1,0,Not Found,safe,13 10 9 4,2.667
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_all2_e3_4612_e3_1543.lus,l2l1,1.992,4,1077,22,3,0,Not Found,safe,17 12 6,2.331
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_all2_e3_4612_e4_3719.lus,l2l1,3.144,4,1507,25,3,0,Not Found,safe,17 12 9 8,3.496
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/DRAGON_all2_e3_4612_e5_3642.lus,base,1.94,4,1135,24,3,0,Not Found,safe,18 14 8,2.344
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/FIREFLY_11_e1_3457.lus,base,0.373,4,388,6,1,0,Not Found,timeout,7 6 4 2,290.308
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/FIREFLY_4_e3_3511_e1_2375.lus,base,0.107,2,63,4,1,0,Not Found,unsafe,2 1,0.465
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/FIREFLY_4_e3_3511_e4_1464.lus,l2l1,0.166,2,72,5,1,0,Not Found,unsafe,2 1,0.484
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/FIREFLY_6_e2_3302.lus,base,0.49,4,504,8,2,0,Not Found,safe,10 7 4,0.854
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/FIREFLY_7.lus,base,1.659,4,1198,18,3,0,Not Found,safe,13 7 4,2.335
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/FIREFLY_a3_e3_314_e1_1979.lus,l1l2,0.247,2,149,8,1,0,Not Found,unsafe,3 2,0.588
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/FIREFLY_a3_e3_314_e4_897.lus,l2l1,0.213,2,143,8,1,0,Not Found,unsafe,3 2,0.51
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/FIREFLY_luke_1a_e7_3042_e3_1213.lus,l1l2,6.583,7,3299,27,2,4,Not Found,safe,16 15 14 13 12 11 10,6.877
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/FIREFLY_luke_2_e2_1375_e1_418.lus,base,0.38,4,440,7,2,0,Not Found,safe,9 7 4,0.731
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/FIREFLY_luke_2_e7_1826_e8_126.lus,base,0.395,4,437,7,2,0,Not Found,safe,9 7 4,0.754
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/FIREFLY_luke_3.lus,l2l1,1.376,5,1223,13,1,0,Not Found,safe,17 13 10 7 1,1.712
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/FIREFLY_luke_3_e1_2217_e3_1200.lus,base,1.672,5,1657,20,3,0,Not Found,safe,31 28 24 12,2.098
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/FIREFLY_rt.lus,l2l1,0.555,4,584,12,2,3,Not Found,safe,12 10 7 3,0.871
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/FIREFLY_rt_e3_1770_e2_637.lus,base,0.49,4,508,10,2,0,Not Found,safe,9 7 4,0.846
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/FIREFLY_u1.lus,base,1.226,6,1059,12,2,0,Not Found,safe,15 13 12 10 6,1.592
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory1/FIREFLY_u1_e2_3403_e2_957.lus,base,1.699,5,1406,13,2,2,Not Found,safe,20 16 11 7,2.22
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory2/ILLINOIS_a1.lus,l2l1,0.398,3,361,9,3,0,Not Found,safe,7 5 2,0.72
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory2/ILLINOIS_r4a.lus,base,0.798,4,756,14,3,1,Not Found,safe,19 15 8,1.16
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory2/MESI_3.lus,base,0.31,3,235,10,0,0,Not Found,safe,4 3,0.653
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory2/MESI_3_e1_2517_e8_2163.lus,l2l1,0.737,4,507,14,0,0,Not Found,safe,5 2 1 0,1.055
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory2/MESI_3_e2_819_e1_1145.lus,base,0.347,3,235,10,0,0,Not Found,safe,4 3,0.697
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory2/MESI_3_e2_819_e4_1595.lus,base,0.351,3,241,10,0,0,Not Found,safe,4 3,0.705
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory2/MESI_i4_e6_2175.lus,l2l1,0.59,5,753,15,2,3,Not Found,safe,15 13 10 6,0.908
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/memory2/MESI_i4_e7_1017_e6_1132.lus,l2l1,0.601,4,775,17,2,0,Not Found,safe,19 15 7,0.872
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/misc/_6counters.lus,base,3.895,9,4383,35,4,4,Not Found,unsafe,33 31 27 23 20 17 14 10 6,4.351
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/misc/_6counters_e3_140_e8_149.lus,base,0.4,4,595,11,1,1,Not Found,timeout,10 8 6 3,290.373
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/misc/_6counters_e8_371_e3_224.lus,base,0.368,4,595,11,1,1,Not Found,timeout,10 8 6 3,290.355
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/misc/_6counters_e8_371_e7_304.lus,l2l1,0.905,4,995,16,1,0,Not Found,unsafe,17 14 11 8,1.236
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/misc/twisted_counters.lus,base,2.932,9,3680,28,3,7,Not Found,safe,35 33 28 25 24 22 19 11,3.356
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/misc/two_counters.lus,l2l1,1.017,6,1541,19,3,5,Not Found,safe,25 23 18 15 9,1.31
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/protocol/rtp_vt.lus,l2l1,45.17,9,15566,105,10,13,Not Found,safe,114 113 111 108 104 100 76 43,45.623
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/protocol/swimmingpool_1.lus,base,1.078,4,634,13,2,0,Not Found,unsafe,8 6 3 1,1.458
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/protocol/swimmingpool_6_e7_10_e7_341.lus,l2l1,0.572,4,439,9,1,0,Not Found,unsafe,12 10 6,0.859
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/protocol/swimmingpool_6_e7_399.lus,l1l2,0.528,4,365,10,1,0,Not Found,unsafe,6 4 3 2,0.852
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/protocol/swimmingpool_8.lus,base,0.224,2,127,9,1,0,Not Found,unsafe,6 2,0.581
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/protocol/swimmingpool_9.lus,l1l2,0.522,3,454,9,1,0,Not Found,unsafe,11 9 7,0.777
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/car_5.lus,base,18.138,11,7720,55,2,1,Not Found,safe,19 18 16 13 12 11 10 9 8 4,18.707
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/car_5_e2_405_e2_1083.lus,l1l2,0.234,2,135,10,0,0,Not Found,unsafe,8 1,0.559
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/car_5_e2_405_e3_473.lus,base,0.209,2,135,10,0,0,Not Found,unsafe,8 1,0.559
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/car_5_e2_405_e8_1055.lus,base,0.21,2,135,10,0,0,Not Found,unsafe,8 1,0.554
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/car_5_e3_11_e1_429.lus,base,0.249,2,135,10,0,0,Not Found,unsafe,8 1,0.602
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/car_5_e3_11_e5_24.lus,l2l1,0.271,2,135,10,0,0,Not Found,unsafe,8 1,0.539
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/car_5_e3_661.lus,base,0.234,2,135,10,0,0,Not Found,unsafe,8 1,0.568
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/car_5_e7_244.lus,l2l1,24.239,13,9789,61,2,2,Not Found,safe,24 20 18 15 14 12 10 8 6 5 1 0,24.676
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/car_5_e7_244_e1_823.lus,l2l1,4.211,9,3415,37,2,2,Not Found,safe,17 16 14 12 10 8 6 4,4.515
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/car_5_e7_244_e2_693.lus,base,0.205,2,131,10,0,0,Not Found,unsafe,8 1,0.55
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/car_5_e7_244_e3_1071.lus,l1l2,0.25,2,144,11,0,0,Not Found,unsafe,9 2,0.582
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/car_6.lus,base,22.121,13,10052,65,0,14,Not Found,safe,44 42 39 37 35 33 32 29 25 19 13 6,22.613
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/car_6_e1_152.lus,base,2.412,7,2642,31,0,0,Not Found,safe,26 24 21 18 13 6,2.762
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/car_6_e1_152_e1_391.lus,base,1.257,7,1674,17,0,1,Not Found,safe,18 17 16 14 9 4,1.596
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/car_6_e2_589_e2_506.lus,base,0.231,2,159,12,0,0,Not Found,unsafe,10 1,0.569
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/car_6_e2_589_e3_349.lus,base,0.232,2,159,12,0,0,Not Found,unsafe,10 1,0.568
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/car_6_e2_893.lus,base,0.22,2,172,13,0,0,Not Found,unsafe,11 2,0.556
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/car_6_e3_294_e1_956.lus,base,0.218,2,159,12,0,0,Not Found,unsafe,10 1,0.557
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/car_6_e3_294_e3_47.lus,base,0.22,2,172,13,0,0,Not Found,unsafe,11 2,0.567
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/car_6_e3_294_e5_979.lus,l2l1,0.252,2,172,13,0,0,Not Found,unsafe,11 2,0.576
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/cd.lus,base,10.461,9,11048,96,2,47,Not Found,safe,123 119 115 108 98 83 60 30,10.835
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/cd_e7_621_e7_669.lus,l2l1,0.176,3,203,10,2,0,Not Found,unsafe,7 2 0,0.499
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/cd_e7_8.lus,base,0.578,6,815,18,2,3,Not Found,unsafe,6 4 3 2 1 0,0.913
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/Gas.lus,base,0.027,1,20,2,0,0,Not Found,timeout,2,290.323
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_1.lus,base,0.55,4,447,14,0,0,Not Found,safe,10 7 6,0.887
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_1_e1_846_e1_1317.lus,base,0.625,4,539,13,0,0,Not Found,safe,4 1 0,0.978
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_1_e1_846_e3_1060.lus,l2l1,0.369,4,314,8,0,0,Not Found,safe,5 1 0,0.682
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_1_e1_846_e7_397.lus,l1l2,0.556,4,538,16,0,0,Not Found,safe,12 9 5,0.87
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_1_e2_1102_e1_317.lus,base,0.639,4,547,14,0,0,Not Found,safe,14 12 7,0.986
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_1_e2_1102_e2_943.lus,l1l2,0.308,3,293,11,0,0,Not Found,safe,15 10,0.611
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_1_e2_1102_e3_961.lus,l2l1,0.251,3,255,10,0,0,Not Found,safe,11 9,0.549
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_1_e2_1102_e7_1163.lus,l2l1,0.343,4,356,13,0,0,Not Found,safe,7 6 4,0.681
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_1_e7_606.lus,l1l2,0.653,4,696,17,0,0,Not Found,safe,17 13 9,0.977
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_2.lus,base,62.337,13,16069,130,0,63,Not Found,safe,17 14 11 9 8 7 6 5 4 3 2 1,62.918
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_2_e1_1116_e1_556.lus,l1l2,4.628,7,2753,37,0,3,Not Found,unsafe,13 10 8 7 6 3 0,5.243
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_2_e1_1116_e2_617.lus,l1l2,0.544,4,563,14,0,0,Not Found,safe,5 2 0,0.858
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_2_e1_1116_e3_287.lus,base,0.604,2,265,16,0,0,Not Found,unsafe,15 7,0.96
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_2_e1_1116_e7_1440.lus,l2l1,1.166,4,872,21,0,0,Not Found,unsafe,16 11 7 1,1.482
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_2_e1_190.lus,l1l2,10.322,9,4981,56,0,18,Not Found,safe,14 11 8 6 5 4 3 1,10.645
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_2_e2_704_e1_389.lus,base,1.387,3,947,32,0,1,Not Found,unsafe,27 17 5,1.743
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_2_e2_704_e2_13.lus,base,0.404,4,401,11,0,0,Not Found,safe,4 3 1,0.746
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_2_e2_704_e3_76.lus,base,0.526,2,244,15,0,0,Not Found,unsafe,14 4,0.882
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_2_e2_704_e7_810.lus,l2l1,1.64,3,885,31,0,0,Not Found,unsafe,23 7 3,1.892
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_2_e2_968.lus,l2l1,4.716,5,2525,69,0,3,Not Found,unsafe,61 46 34 20 6,5.017
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_2_e3_112.lus,base,3.039,3,943,38,0,0,Not Found,unsafe,29 7 2,3.702
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_3.lus,base,159.421,20,24865,89,0,6,Not Found,timeout,24 22 20 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2,290.241
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_3_e3_1275.lus,l1l2,8.38,6,3341,28,0,0,Not Found,unsafe,24 21 20 19 17 16,10.987
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_3_e3_1275_e1_1350.lus,base,14.082,4,4431,82,0,4,Not Found,unsafe,89 68 41 19,14.551
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_3_e3_1275_e5_846.lus,base,263.24,15,21457,60,0,0,Not Found,timeout,47 44 41 36 31 23 18 17 16 15 14 13 12 11 10,290.277
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_3_e3_1275_e6_1315.lus,base,199.535,20,25716,83,0,6,Not Found,timeout,25 23 21 19 18 17 16 14 13 12 11 10 9 8 7 6 5 4 3 2,290.251
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_3_e3_1275_e7_529.lus,l2l1,7.969,7,3437,35,0,0,Not Found,unsafe,28 25 22 21 20 19,8.318
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_3_e4_987.lus,base,89.976,19,19039,31,0,0,Not Found,timeout,22 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1,290.224
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_3_e4_987_e1_1115.lus,base,255.536,21,26302,61,0,2,Not Found,timeout,33 28 24 22 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4,290.262
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_3_e4_987_e2_80.lus,l1l2,7.994,5,4731,71,0,3,Not Found,unsafe,78 75 57 37 13,8.315
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_3_e4_987_e3_291.lus,l2l1,127.516,20,21872,33,0,0,Not Found,unsafe,26 23 21 20 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4,127.937
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_4.lus,base,198.7,20,25646,84,0,6,Not Found,timeout,24 22 20 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2,290.222
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_4_e1_821_e5_911.lus,base,272.128,15,26164,65,0,3,Not Found,timeout,30 28 21 19 17 15 12 10 8 7 6 5 4 3 2,290.225
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_4_e1_917.lus,base,159.144,8,33016,194,0,15,Not Found,timeout,135 133 131 128 107 84 61 42,290.278
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_4_e2_968.lus,l1l2,5.754,4,4066,56,0,3,Not Found,unsafe,73 67 46 23,6.104
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_4_e2_968_e1_956.lus,base,2.698,4,1084,43,0,3,Not Found,unsafe,36 22 12 4,3.154
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_4_e2_968_e2_1166.lus,l1l2,0.137,3,129,6,0,0,Not Found,safe,7 5,0.459
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_4_e2_968_e4_801.lus,l1l2,5.152,5,2554,55,0,3,Not Found,unsafe,50 47 29 9 3,5.695
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_4_e2_968_e5_991.lus,l1l2,4.936,5,2583,55,0,3,Not Found,unsafe,50 47 28 9 2,5.261
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_4_e2_968_e6_236.lus,l1l2,0.861,2,344,19,1,0,Not Found,unsafe,16 0,1.191
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_4_e2_968_e7_860.lus,l1l2,4.563,5,2535,66,0,3,Not Found,unsafe,53 44 30 17 3,5.198
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_4_e3_1025.lus,l1l2,4.76,4,2485,29,0,0,Not Found,unsafe,33 30 21 19,6.272
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_4_e3_1091_e1_1044.lus,base,7.432,4,2919,61,0,4,Not Found,unsafe,61 42 23 12,8.11
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_4_e3_1091_e4_232.lus,l1l2,7.633,4,4639,69,0,4,Not Found,unsafe,86 78 52 26,8.177
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_4_e5_1150.lus,base,237.485,9,21418,51,0,1,Not Found,timeout,32 30 20 18 14 12 10 8 6,290.278
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_5.lus,base,266.824,11,31723,191,0,40,Not Found,timeout,153 147 142 137 129 119 103 83 62 39 21,290.283
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int/simulation/metros_5_e4_1208_e1_337.lus,l2l1,158.999,11,21103,102,0,3,Not Found,safe,58 53 42 34 28 22 16 12 9 7 5,193.609
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/large/microwave01.lus,l1l2,1.08,2,76,3,0,0,Not Found,safe,1 0,1.479
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/large/microwave03.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.119
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/large/microwave04.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.12
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/large/microwave05.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.121
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/large/microwave07.lus,base,71.724,8,1297,12,1,0,Not Found,timeout,8 7 6 5 4 3 2 1,290.194
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/large/microwave08.lus,base,226.019,8,1762,16,1,0,Not Found,timeout,13 12 11 10 9 8 7 6,290.163
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/large/microwave09.lus,base,6.396,5,585,9,1,0,Not Found,timeout,5 4 3 2 1,290.152
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/large/microwave10.lus,base,12.093,3,328,13,0,0,Not Found,timeout,11 7 3,290.203
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/large/microwave11.lus,base,172.957,7,1213,17,0,1,Not Found,timeout,7 6 5 4 3 2 1,290.175
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/large/microwave13.lus,base,245.554,7,1380,15,0,0,Not Found,timeout,11 10 9 8 7 6 5,290.164
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/large/microwave17.lus,l2l1,2.209,1,76,6,0,0,Not Found,safe,6,25.994
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/large/microwave19.lus,l1l2,2.845,1,61,5,0,0,Not Found,safe,5,10.93
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/large/microwave22.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.121
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/large/microwave24.lus,base,27.267,3,222,8,0,0,Not Found,safe,6 4,28.064
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/large/microwave26.lus,base,192.292,1,91,7,0,0,Not Found,timeout,7,290.128
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/large/microwave27.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.122
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/large/microwave29.lus,l2l1,3.662,1,54,4,0,0,Not Found,safe,4,33.556
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/large/microwave30.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.122
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/large/microwave31.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.12
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/large/microwave32.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.123
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/large/microwave33.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.121
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/large/microwave34.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.123
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/large/microwave35.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.124
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/large/microwave36.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.126
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/large/microwave37.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.125
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/large/microwave38.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.126
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/large/microwave39.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.127
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_10.lus,base,4.855,2,361,12,3,0,Not Found,timeout,15 8,290.124
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_10_e1_3587_e3_2749.lus,base,62.153,2,1751,31,4,0,Not Found,timeout,39 14,290.232
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_10_e2_2785_e3_1744.lus,base,3.551,2,351,12,3,0,Not Found,timeout,15 8,290.124
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_10_e2_402.lus,base,4.987,2,354,12,3,0,Not Found,timeout,15 8,290.131
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_10_e3_144_e5_2046.lus,base,4.219,2,352,12,3,0,Not Found,timeout,15 8,290.128
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_10_e3_3429.lus,base,3.445,2,344,12,3,0,Not Found,timeout,15 8,290.126
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_14.lus,base,89.821,2,396,13,3,0,Not Found,timeout,16 9,290.123
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_14_e2_3606.lus,base,125.676,2,392,13,3,0,Not Found,timeout,16 9,290.127
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_14_e3_5120.lus,base,79.19,2,351,12,2,0,Not Found,timeout,14 8,290.124
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_14_e7_3162.lus,l1l2,2.303,1,88,6,0,0,Not Found,unsafe,6,29.786
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_14_e7_3162_e1_3998.lus,base,34.968,2,243,11,1,0,Not Found,unsafe,8 3,35.739
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_14_e7_3162_e2_753.lus,base,30.288,2,225,11,1,0,Not Found,unsafe,9 3,31.015
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_14_e7_3162_e7_3528.lus,l2l1,2.904,1,75,6,0,0,Not Found,unsafe,6,14.154
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_2.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.115
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_2_e1_2316.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.118
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_2_e2_3183_e1_2644.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.118
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_2_e2_3183_e2_3580.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.118
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_2_e2_3183_e3_5972.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.122
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_2_e2_4481.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.121
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_2_e7_25_e8_3171.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.117
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_3.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.117
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_3_e1_4783.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.117
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_3_e1_4783_e1_3755.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.119
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_3_e1_4783_e2_158.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.12
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_3_e1_4783_e3_511.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.121
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_3_e2_5343_e1_988.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.121
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_3_e3_3846.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.121
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_3_e3_5422_e1_2288.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.118
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_3_e3_5422_e2_3135.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.117
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_5.lus,l1l2,126.983,3,273,7,1,0,Not Found,safe,6 4 1,183.059
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_5_e1_1835.lus,l2l1,181.31,3,171,5,0,0,Not Found,safe,5 3,251.029
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_5_e2_3018_e2_936.lus,base,261.163,3,364,8,1,0,Not Found,timeout,8 6 3,290.167
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_6_e7_5046_e7_3623.lus,l2l1,0.107,1,14,1,0,0,Not Found,safe,1,0.81
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_8_e3_786.lus,base,0.353,1,30,2,0,0,Not Found,timeout,2,290.15
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_8_e7_3752.lus,base,47.48,2,737,16,1,0,Not Found,timeout,22 8,290.172
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_9_e7_1843_e7_2225.lus,base,235.526,7,1945,15,1,0,Not Found,timeout,15 11 10 9 8 7 6,290.194
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_all.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.117
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_all_e1_4022_e1_1759.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.118
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_all_e1_4022_e2_267.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.123
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_all_e1_4022_e3_3628.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.118
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_all_e1_4037.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.118
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_all_e2_6104.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.122
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_all_e2_6104_e1_6205.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.118
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_all_e2_6104_e2_3308.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.118
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_all_e2_6104_e3_2607.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.118
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_all_e3_4821_e1_1318.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.119
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_all_e3_4821_e2_1089.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.122
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_all_e3_4821_e4_1791.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.122
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_all_e3_4821_e5_1536.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.121
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/DRAGON_all_e3_5957.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.122
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_1.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.118
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_1_e1_1092_e2_1853.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.122
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_11.lus,base,0.099,1,26,2,0,0,Not Found,timeout,2,290.281
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_11_e1_3457.lus,base,0.148,1,41,3,0,0,Not Found,timeout,3,290.218
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_11_e3_2076_e1_1270.lus,base,0.116,1,26,2,0,0,Not Found,timeout,2,290.276
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_2.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.118
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_4.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.12
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_4_e3_3511.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.117
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_4_e3_3511_e1_2375.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.12
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_4_e3_3511_e2_1923.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.119
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_4_e3_3511_e3_422.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.117
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_4_e3_3511_e4_1464.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.119
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_4_e3_3511_e5_3248.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.12
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_6.lus,base,6.25,5,744,12,2,3,Not Found,safe,16 14 10 5,6.93
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_6_e2_3302.lus,base,95.911,4,705,10,2,0,Not Found,timeout,11 8 5 2,290.165
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_9.lus,l1l2,0.528,2,31,1,0,0,Not Found,safe,1,0.869
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_9_e7_170_e3_3647.lus,base,0.559,2,25,1,0,0,Not Found,safe,1,0.941
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_a3.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.122
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_a3_e1_3233_e2_2392.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.121
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_a3_e1_3233_e3_2970.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.12
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_a3_e2_2086_e1_3235.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.12
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_a3_e2_2086_e2_2689.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.122
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_a3_e2_2086_e3_2542.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.122
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_a3_e2_2952.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.118
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_a3_e3_314_e1_1979.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.118
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_a3_e3_314_e2_2812.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.119
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_a3_e3_314_e4_897.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.118
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_all.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.118
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_all_e1_1207_e2_3220.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.119
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_all_e1_3406.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.118
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_all_e2_2924_e1_768.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.118
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_all_e2_2924_e2_1767.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.121
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_all_e2_2924_e3_3946.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.118
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_all_e3_1600_e2_676.lus,base,77.168,1,86,6,0,0,Not Found,unsafe,4,77.863
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_all_e3_1600_e4_2415.lus,base,256.462,1,135,8,0,0,Not Found,unsafe,6,257.147
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_all_e3_1600_e5_84.lus,l2l1,114.145,1,99,6,0,0,Not Found,unsafe,4,114.854
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_luke_1a.lus,base,0.142,1,41,3,0,0,Not Found,timeout,3,290.28
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_luke_1a_e2_284_e1_2924.lus,base,0.105,1,26,2,0,0,Not Found,timeout,2,290.264
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_luke_1a_e2_284_e2_2755.lus,base,0.139,1,41,3,0,0,Not Found,timeout,3,290.259
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_luke_1a_e2_284_e3_3091.lus,base,0.092,1,26,2,0,0,Not Found,timeout,2,290.204
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_luke_1b.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.121
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_luke_1b_e1_1139_e2_2893.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.123
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_luke_1b_e2_3049_e1_946.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.123
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_luke_1b_e3_671_e2_2131.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.117
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_luke_1b_e3_671_e6_1974.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.118
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_luke_2.lus,base,7.686,5,745,12,2,3,Not Found,safe,16 14 10 5,8.345
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_luke_2_e2_1375_e1_418.lus,base,6.905,5,742,12,2,3,Not Found,safe,16 14 10 5,7.592
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_luke_2_e7_1826_e8_126.lus,base,7.566,5,746,12,2,3,Not Found,safe,16 14 10 5,8.251
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_luke_3.lus,base,62.656,4,1051,18,1,1,Not Found,timeout,20 17 14 9,290.157
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_luke_3_e1_2217_e3_1200.lus,base,257.054,4,881,12,1,0,Not Found,timeout,18 15 12 6,290.156
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_luke_4.lus,base,0.119,1,41,3,0,0,Not Found,timeout,3,290.226
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_luke_4_e2_325.lus,base,0.1,1,26,2,0,0,Not Found,timeout,2,290.201
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_luke_5.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.117
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_luke_rt.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.118
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_luke_rt_e1_913_e2_3353.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.121
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_luke_rt_e2_3460_e1_1455.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.118
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_rt.lus,base,1.04,2,293,10,2,0,Not Found,timeout,12 7,290.2
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_rt_e3_1770_e2_637.lus,base,13.556,2,4741,48,2,0,Not Found,timeout,88 45,290.232
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_u1.lus,l1l2,7.392,4,772,14,2,3,Not Found,safe,19 17 12 7,10.715
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory1/FIREFLY_u1_e2_3403_e2_957.lus,base,7.675,3,594,10,1,0,Not Found,timeout,13 9 4,291.25
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/ILLINOIS_2.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.118
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/ILLINOIS_2_e1_834_e2_3395.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.121
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/ILLINOIS_2_e2_2367_e1_3182.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.12
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/ILLINOIS_3.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.12
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/ILLINOIS_a1.lus,base,4.653,4,525,12,3,1,Not Found,safe,13 9 4,5.315
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/ILLINOIS_all.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.119
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/ILLINOIS_r4a.lus,l2l1,9.234,3,427,10,1,0,Not Found,safe,12 8 5,30.101
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/MESI_1_e2_162_e7_1545.lus,base,1.342,4,274,5,1,0,Not Found,safe,5 4 2,1.689
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/MESI_3_e1_2517_e8_2163.lus,base,38.344,1,142,9,0,0,Not Found,timeout,9,290.12
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/MESI_3_e2_819_e1_1145.lus,base,48.431,1,167,10,0,0,Not Found,timeout,10,290.119
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/MESI_3_e2_819_e4_1595.lus,base,46.271,1,167,10,0,0,Not Found,timeout,10,290.121
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/MESI_4_e7_1140_e7_433.lus,l2l1,1.296,2,243,8,1,0,Not Found,safe,11 5,2.757
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/MESI_all.lus,l1l2,0.353,4,176,4,0,0,Not Found,safe,3 2 0,0.677
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/MESI_all_e4_1147_e7_497.lus,base,269.328,8,1898,18,1,0,Not Found,timeout,15 14 13 12 11 10 9 8,290.163
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/MESI_i3_e1_447.lus,l1l2,1.574,2,42,2,0,0,Not Found,unsafe,2,2.204
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/MESI_i3_e1_447_e3_1180.lus,base,6.976,2,41,2,0,0,Not Found,safe,2,7.626
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/MESI_i3_e1_447_e7_2194.lus,l1l2,1.479,2,47,2,0,0,Not Found,unsafe,2 1,2.025
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/MOESI_2.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.121
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/MOESI_2_e1_1753.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.118
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/MOESI_2_e1_1753_e3_2021.lus,base,12.844,1,24,2,0,0,Not Found,unsafe,0,13.519
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/MOESI_2_e2_155.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.118
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/MOESI_2_e2_1599_e8_1334.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.117
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/MOESI_2_e3_929.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.118
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/MOESI_2_e3_929_e4_578.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.118
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/MOESI_2_e3_929_e5_1826.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.117
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/MOESI_2_e3_929_e6_2707.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.117
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/MOESI_2_e3_929_e8_1167.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.117
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/MOESI_2_e8_101.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.117
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/MOESI_2_e8_926_e1_1065.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.121
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/MOESI_2_e8_926_e8_2138.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.116
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/MOESI_all.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.117
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/SYNAPSE_123.lus,l1l2,106.273,2,58,3,0,0,Not Found,safe,3,106.932
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/SYNAPSE_123_e7_837_e7_1262.lus,l1l2,63.854,1,44,3,0,0,Not Found,safe,3,151.562
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/SYNAPSE_123_e7_856.lus,l1l2,64.471,1,38,3,0,0,Not Found,safe,3,170.546
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/SYNAPSE_123_e8_953.lus,l1l2,53.574,1,49,3,0,0,Not Found,safe,3,167.472
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/SYNAPSE_123_e8_953_e7_1465.lus,l2l1,108.577,1,40,3,0,0,Not Found,safe,3,121.232
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/SYNAPSE_123_e8_953_e8_941.lus,l2l1,102.152,1,49,3,0,0,Not Found,safe,3,166.152
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/SYNAPSE_2.lus,l1l2,13.031,2,29,1,0,0,Not Found,safe,1,13.686
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/SYNAPSE_2_e8_1118_e7_1043.lus,base,21.906,2,30,1,0,0,Not Found,safe,1,22.564
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/SYNAPSE_2_e8_1118_e8_1177.lus,l1l2,17.975,2,29,1,0,0,Not Found,safe,1,18.495
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/SYNAPSE_2_e8_656.lus,base,22.358,2,29,1,0,0,Not Found,safe,1,23.005
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/SYNAPSE_3.lus,l2l1,65.683,1,20,1,0,0,Not Found,safe,1,70.644
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/SYNAPSE_3_e7_1444_e7_638.lus,base,43.982,2,29,1,0,0,Not Found,safe,1,44.638
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/SYNAPSE_3_e7_425.lus,l2l1,18.306,1,20,1,0,0,Not Found,safe,1,34.341
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/SYNAPSE_3_e8_1329_e7_1062.lus,l1l2,15.176,1,16,1,0,0,Not Found,safe,1,17.894
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/SYNAPSE_3_e8_1329_e8_320.lus,l2l1,10.309,1,20,1,0,0,Not Found,safe,1,26.225
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/SYNAPSE_3_e8_1708.lus,base,30.041,2,29,1,0,0,Not Found,safe,1,30.702
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/SYNAPSE_all.lus,l2l1,128.427,1,66,4,0,0,Not Found,safe,4,146.224
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/SYNAPSE_all_e7_907.lus,l1l2,66.018,1,55,4,0,0,Not Found,safe,4,105.85
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/SYNAPSE_all_e7_907_e7_1363.lus,l2l1,142.155,1,62,4,0,0,Not Found,safe,4,176.491
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/memory2/SYNAPSE_all_e8_251.lus,base,163.874,2,81,4,0,0,Not Found,safe,4,164.53
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/misc/_6counters.lus,base,6.768,9,5013,42,3,9,Not Found,unsafe,30 27 23 19 17 16 14 12 9,7.116
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/misc/_6counters_e8_371_e1_448.lus,base,0.466,4,623,12,2,1,Not Found,timeout,11 9 7 4,290.403
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/misc/traffic.lus,l2l1,0.059,2,41,2,0,0,Not Found,safe,2,0.699
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/misc/twisted_counters.lus,base,4.562,9,3721,29,3,9,Not Found,safe,32 29 25 22 20 18 15 8,4.913
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/misc/two_counters.lus,base,1.206,6,1505,20,4,5,Not Found,safe,25 23 18 15 9,1.558
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/protocol/peterson_all.lus,base,1.507,4,407,8,0,0,Not Found,safe,8 4 0,1.945
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/protocol/peterson_vt.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.123
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/protocol/rtp_10_e7_106_e7_2564.lus,base,16.706,7,1089,11,1,0,Not Found,timeout,8 7 6 5 4 3 2,290.189
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/protocol/rtp_5_e7_3972.lus,base,0.546,2,129,5,1,0,Not Found,timeout,6 3,290.191
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/protocol/rtp_all.lus,base,4.999,4,937,19,0,0,Not Found,safe,16 8 0,5.673
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/protocol/rtp_vt.lus,base,255.977,5,2939,39,6,4,Not Found,timeout,41 40 38 33 17,290.132
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/protocol/swimmingpool_1.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.119
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/protocol/swimmingpool_1_e7_1621.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.122
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/protocol/swimmingpool_5.lus,l2l1,0.324,2,72,6,1,0,Not Found,unsafe,3 2,0.706
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/protocol/swimmingpool_6.lus,l2l1,0.359,2,68,6,1,0,Not Found,unsafe,3 1,0.767
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/protocol/swimmingpool_6_e7_10_e7_341.lus,l2l1,0.46,2,95,6,1,0,Not Found,unsafe,5 1,0.745
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/protocol/swimmingpool_6_e7_399.lus,l1l2,20.411,2,735,32,1,0,Not Found,unsafe,31 2,20.8
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/protocol/swimmingpool_7.lus,l1l2,0.73,3,169,7,1,0,Not Found,unsafe,4 2 0,1.136
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/protocol/swimmingpool_8.lus,base,0.681,3,122,8,0,0,Not Found,unsafe,4 1 0,1.089
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/protocol/swimmingpool_9.lus,base,2.142,4,302,13,1,0,Not Found,unsafe,10 8 7 2,2.858
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/car_5.lus,base,84.294,8,1470,10,0,0,Not Found,timeout,9 8 7 6 5 4 3 2,290.173
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/car_5_e2_405_e2_1083.lus,l2l1,0.402,2,142,11,0,0,Not Found,unsafe,9 2,0.749
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/car_5_e2_405_e3_473.lus,l2l1,0.429,2,156,12,0,0,Not Found,unsafe,10 3,0.753
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/car_5_e2_405_e8_1055.lus,base,0.389,2,141,11,0,0,Not Found,unsafe,8 1,0.755
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/car_5_e3_11_e1_429.lus,base,0.962,2,174,12,0,0,Not Found,unsafe,10 2,1.325
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/car_5_e3_11_e5_24.lus,l1l2,0.954,2,180,12,0,0,Not Found,unsafe,11 1,1.229
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/car_5_e3_661.lus,base,0.835,2,129,10,0,0,Not Found,unsafe,8 1,1.286
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/car_5_e7_244.lus,base,29.552,7,1189,11,0,0,Not Found,timeout,10 8 7 6 5 4,290.304
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/car_5_e7_244_e1_823.lus,base,72.995,8,1485,10,0,0,Not Found,timeout,9 8 7 6 5 4 3 2,290.179
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/car_5_e7_244_e2_693.lus,base,0.399,2,154,12,0,0,Not Found,unsafe,10 3,0.774
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/car_6.lus,base,65.488,9,1982,13,0,0,Not Found,timeout,10 9 8 7 6 5 4 3 2,290.17
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/car_6_e1_152.lus,base,191.157,9,1971,12,0,0,Not Found,timeout,10 9 8 7 6 5 4 3 2,290.17
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/car_6_e1_152_e1_391.lus,base,174.43,9,1997,13,0,0,Not Found,timeout,10 9 8 7 6 5 4 3 2,290.155
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/car_6_e2_589_e2_506.lus,base,0.332,2,191,14,0,0,Not Found,unsafe,12 3,0.705
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/car_6_e2_589_e3_349.lus,l2l1,0.36,2,163,12,0,0,Not Found,unsafe,11 2,0.692
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/car_6_e2_893.lus,l1l2,0.357,2,175,13,0,0,Not Found,unsafe,11 2,0.675
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/car_6_e3_294_e1_956.lus,l2l1,0.895,2,219,15,0,0,Not Found,unsafe,14 3,1.168
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/car_6_e3_294_e3_47.lus,base,0.704,2,175,13,0,0,Not Found,unsafe,11 2,1.209
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/car_6_e3_294_e5_979.lus,l1l2,0.832,2,175,13,0,0,Not Found,unsafe,11 2,1.198
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/car_all.lus,l2l1,2.039,5,439,7,1,0,Not Found,safe,5 3 2 1,2.317
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/car_all_e2_142.lus,l1l2,2.683,6,557,7,1,0,Not Found,safe,5 4 3 2 1,2.932
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/car_all_e2_142_e7_209.lus,base,0.577,3,180,7,0,0,Not Found,safe,5 3,0.922
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/car_all_e3_1068_e4_275.lus,base,2.426,6,557,7,1,0,Not Found,safe,5 4 3 2 1,2.919
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/car_all_e7_188_e7_743.lus,l1l2,1.676,4,400,11,0,0,Not Found,safe,9 6 4,1.963
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/car_all_e8_856.lus,l2l1,7.241,6,875,11,2,0,Not Found,safe,10 8 6 4 2,7.701
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/car_all_e8_856_e2_585.lus,l1l2,2.51,6,559,7,1,0,Not Found,safe,5 4 3 2 1,2.778
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/car_all_e8_856_e7_578.lus,l1l2,0.85,2,175,9,0,0,Not Found,safe,8 6,1.202
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/cd.lus,base,41.528,3,538,15,0,1,Not Found,timeout,20 16 8,290.291
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/cd_e7_621_e7_669.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.118
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/cd_e7_8.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.117
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/metros_1.lus,l1l2,113.049,3,570,19,0,0,Not Found,safe,9 7 6,114.613
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/metros_1_e1_846_e1_1317.lus,base,1.036,2,197,8,0,0,Not Found,timeout,11 6,290.13
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/metros_1_e1_846_e2_1394.lus,l2l1,56.727,2,452,17,0,0,Not Found,safe,20 16,191.713
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/metros_1_e1_846_e3_1060.lus,base,174.707,2,664,22,0,0,Not Found,timeout,25 20,290.133
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/metros_1_e1_846_e7_397.lus,base,220.978,2,588,20,0,0,Not Found,timeout,21 16,290.128
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/metros_1_e2_1102_e1_317.lus,l1l2,0.104,1,19,1,0,0,Not Found,safe,1,29.015
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/metros_1_e2_1102_e2_943.lus,l1l2,0.101,1,19,1,0,0,Not Found,safe,1,70.286
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/metros_1_e2_1102_e3_961.lus,base,206.988,4,788,20,0,0,Not Found,safe,9 6 5,207.657
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/metros_1_e2_1102_e7_1163.lus,base,3.944,2,177,8,0,0,Not Found,timeout,10 7,290.127
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/metros_1_e2_627.lus,l1l2,69.623,2,433,16,0,0,Not Found,safe,19 15,87.956
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/metros_1_e7_1255_e7_12.lus,base,4.469,2,183,9,0,0,Not Found,timeout,9 5,290.126
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/metros_1_e7_606.lus,base,17.47,2,316,12,0,0,Not Found,timeout,16 11,290.129
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/metros_2_e2_704_e3_76.lus,base,23.285,2,390,18,0,0,Not Found,unsafe,18 7,23.992
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/speed2_e7_223_e7_213.lus,base,2.403,3,398,10,0,0,Not Found,timeout,7 4 2,290.203
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Int32/simulation/speed2_e7_496.lus,base,0.62,2,219,8,0,0,Not Found,timeout,11 6,290.191
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int/large/ccp01.lus,l1l2,12.038,4,198,4,0,0,Not Found,safe,3 2 1,12.536
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int/large/ccp02.lus,base,9.983,4,191,3,0,0,Not Found,safe,2 1 0,10.789
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int/large/ccp03.lus,l1l2,7.858,3,128,3,0,0,Not Found,safe,2 1,8.318
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int/large/ccp04.lus,l2l1,1.535,1,16,2,0,0,Not Found,safe,0,1.935
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int/large/ccp08.lus,l2l1,3.025,2,100,5,0,0,Not Found,safe,3 2,3.619
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int/large/ccp10.lus,base,9.424,2,79,7,0,0,Not Found,unsafe,0,10.475
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int/large/ccp11.lus,l2l1,227.364,3,4529,84,1,1,Not Found,unsafe,90 68 26,228.264
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int/large/ccp12.lus,l2l1,40.654,1,342,17,0,0,Not Found,unsafe,17,81.565
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int/large/ccp13.lus,base,95.519,3,2410,39,4,1,Not Found,timeout,51 42 23,290.135
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int/large/ccp14.lus,base,43.376,2,848,32,1,0,Not Found,unsafe,0,44.599
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int/large/ccp17.lus,l2l1,1.245,1,21,2,0,0,Not Found,safe,2,3.854
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int/large/ccp18.lus,l2l1,1.64,1,21,2,0,0,Not Found,safe,2,3.303
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int/large/ccp20.lus,l1l2,9.625,1,101,8,0,0,Not Found,safe,8,23.192
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int/large/ccp21.lus,l1l2,61.607,2,1190,31,1,0,Not Found,unsafe,38 21,62.272
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int/large/ccp22.lus,base,57.452,3,1114,28,0,2,Not Found,timeout,21 17 8,290.15
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int/large/ccp23.lus,base,95.379,2,2073,55,0,2,Not Found,unsafe,0,96.673
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int/large/ccp24.lus,base,263.526,3,7470,89,1,2,Not Found,timeout,121 97 52,290.149
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int/large/cruise_controller_01.lus,l2l1,3.194,1,53,3,0,0,Not Found,safe,3,4.017
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int/large/cruise_controller_02.lus,l1l2,3.75,4,241,4,0,0,Not Found,safe,3 2 0,4.223
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int/large/cruise_controller_03.lus,base,2.679,4,187,3,0,0,Not Found,safe,2 1 0,3.405
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int/large/cruise_controller_08.lus,l2l1,133.092,5,11754,112,0,4,Not Found,unsafe,54 48 42 37 34,136.151
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int/large/cruise_controller_09.lus,base,6.105,2,259,15,0,0,Not Found,unsafe,0,6.95
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int/large/cruise_controller_10.lus,l1l2,12.278,4,1457,34,0,0,Not Found,safe,17 10 1,12.708
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int/large/cruise_controller_12.lus,l2l1,1.123,2,116,6,0,0,Not Found,safe,4 3,1.589
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int/large/cruise_controller_14.lus,l1l2,0.699,2,82,3,0,0,Not Found,safe,2 1,1.11
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int/large/cruise_controller_15.lus,base,5.583,2,449,20,0,0,Not Found,unsafe,0,6.407
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int/large/cruise_controller_16.lus,base,173.102,2,13149,148,1,4,Not Found,unsafe,0,173.859
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int/large/cruise_controller_17.lus,l2l1,23.564,2,909,32,0,0,Not Found,unsafe,28 18,24.164
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int/large/cruise_controller_18.lus,base,8.468,5,600,13,0,0,Not Found,safe,5 3 1 0,9.265
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int/large/cruise_controller_19.lus,base,8.144,5,468,10,0,0,Not Found,safe,4 3 1 0,8.94
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int/large/cruise_controller_22.lus,base,15.844,2,1235,41,1,0,Not Found,unsafe,0,16.759
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int/large/cruise_controller_23.lus,base,120.48,2,14253,154,1,4,Not Found,unsafe,0,121.203
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int/large/cruise_controller_24.lus,l1l2,0.698,2,73,3,0,0,Not Found,safe,2 1,1.09
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int32/large/ccp01.lus,l2l1,7.759,1,14,2,0,0,Not Found,safe,0,8.198
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int32/large/ccp02.lus,base,6.418,3,95,2,0,0,Not Found,safe,1 0,6.924
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int32/large/ccp03.lus,l1l2,5.279,3,87,2,0,0,Not Found,safe,1 0,5.773
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int32/large/ccp04.lus,l2l1,1.617,2,41,2,0,0,Not Found,safe,2,2.091
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int32/large/ccp08.lus,l2l1,3.977,2,52,3,0,0,Not Found,safe,1 0,4.886
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int32/large/ccp10.lus,l2l1,16.604,1,71,7,0,0,Not Found,unsafe,5,17.929
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int32/large/ccp11.lus,base,111.992,3,1894,36,0,1,Not Found,timeout,33 27 19,290.158
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int32/large/ccp13.lus,base,60.801,5,1370,22,2,2,Not Found,timeout,16 11 8 6 5,290.591
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int32/large/ccp14.lus,base,244.507,5,4001,32,2,0,Not Found,timeout,35 28 24 22,290.201
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int32/large/ccp17.lus,base,6.313,4,466,8,0,0,Not Found,safe,4 1 0,7.365
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int32/large/ccp18.lus,l1l2,0.745,1,14,1,0,0,Not Found,safe,1,3.818
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int32/large/ccp20.lus,l2l1,7.616,1,84,7,0,0,Not Found,safe,7,53.532
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int32/large/ccp21.lus,l2l1,4.276,1,46,4,0,0,Not Found,unsafe,4,88.126
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int32/large/ccp22.lus,base,200.166,4,4276,77,0,4,Not Found,timeout,63 54 41 18,290.15
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int32/large/ccp23.lus,base,261.185,7,9066,84,0,5,Not Found,timeout,42 36 30 28 26 24 22,290.201
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int32/large/ccp24.lus,base,115.774,3,1491,31,1,0,Not Found,timeout,29 24 15,290.19
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int32/large/cruise_controller_01.lus,l2l1,4.378,1,16,2,0,0,Not Found,safe,0,4.707
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int32/large/cruise_controller_02.lus,base,2.48,3,91,2,0,0,Not Found,safe,1 0,3.208
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int32/large/cruise_controller_03.lus,l2l1,2.147,1,14,2,0,0,Not Found,safe,0,2.5
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int32/large/cruise_controller_04.lus,base,0.901,2,39,2,0,0,Not Found,safe,2,1.332
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int32/large/cruise_controller_08.lus,base,38.965,3,1519,33,0,1,Not Found,timeout,32 27 17,290.607
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int32/large/cruise_controller_09.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.122
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int32/large/cruise_controller_10.lus,l2l1,15.045,4,1314,31,0,0,Not Found,safe,14 8 1,15.734
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int32/large/cruise_controller_12.lus,base,1.377,3,157,5,0,0,Not Found,safe,5 4,1.942
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int32/large/cruise_controller_14.lus,l1l2,0.475,1,24,2,0,0,Not Found,safe,2,1.557
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int32/large/cruise_controller_15.lus,l2l1,10.31,2,524,16,1,0,Not Found,unsafe,17 11,11.163
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int32/large/cruise_controller_16.lus,base,63.768,3,1889,40,0,2,Not Found,timeout,40 33 21,290.194
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int32/large/cruise_controller_17.lus,l2l1,12.374,1,236,14,0,0,Not Found,unsafe,14,27.936
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int32/large/cruise_controller_18.lus,l2l1,17.982,2,254,12,0,0,Not Found,safe,11 8,20.331
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int32/large/cruise_controller_19.lus,l1l2,14.771,1,138,9,0,0,Not Found,safe,9,19.683
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int32/large/cruise_controller_20.lus,l1l2,21.915,2,929,29,1,0,Not Found,unsafe,32 13,22.429
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int32/large/cruise_controller_22.lus,l2l1,24.586,2,717,21,0,0,Not Found,unsafe,23 12,25.142
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int32/large/cruise_controller_23.lus,base,53.128,3,1813,39,1,0,Not Found,timeout,32 26 16,290.203
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FMCAD08/Real_Int32/large/cruise_controller_24.lus,base,1.317,3,144,5,0,0,Not Found,safe,4 3,2.138
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FunctionalChain/channel/channel.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.117
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FunctionalChain/channel/channel_bounds.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.117
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FunctionalChain/channel/channel_str.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.19
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FunctionalChain/channel/channel_top.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.117
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FunctionalChain/functionalChain_bounds_large.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.145
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FunctionalChain/functionalChain_bounds_medium.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.189
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FunctionalChain/functionalChain_bounds_small.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.12
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FunctionalChain/functionalChain_str_large.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.127
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FunctionalChain/functionalChain_str_medium.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.146
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FunctionalChain/functionalChain_str_small.lus,base,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,Not Found,timeout,Not Found,290.142
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FunctionalChain/reconfiguration/reconfiguration_medium.lus,base,5.861,8,1810,10,1,0,Not Found,timeout,8 7 6 5 4 3 2 1,290.307
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FunctionalChain/reconfiguration/reconfiguration_medium_bounds.lus,base,12.593,8,1954,10,1,0,Not Found,timeout,8 7 6 5 4 3 2 1,290.424
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FunctionalChain/reconfiguration/reconfiguration_small.lus,base,203.617,15,22988,114,2,12,Not Found,timeout,42 40 35 29 22 19 16 13 10 9 7 6 5 4 3,290.256
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FunctionalChain/reconfiguration/reconfiguration_small_bounds.lus,l2l1,152.813,12,13597,83,2,4,Not Found,safe,31 27 25 21 18 15 12 10 8 6 4 2,169.814
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FunctionalChain/relatedCounters/relatedCounters_small.lus,base,24.126,15,10461,67,2,36,Not Found,safe,16 13 12 11 10 9 8 7 6 5 4 3 2 1,24.538
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FunctionalChain/relatedCounters/relatedCounters_small_bounds.lus,l2l1,9.461,12,4659,29,3,15,Not Found,safe,11 10 9 8 7 6 5 4 3 2 1,9.756
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FunctionalChain/triplexVoter/triplexVoter.lus,base,4.041,2,872,24,0,0,Not Found,timeout,28 24,290.558
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FunctionalChain/triplexVoter/triplexVoter_bounds.lus,base,8.001,2,477,16,6,0,Not Found,timeout,20 10,290.572
+/home/ubuntu/Lustre-exp/kind2-benchmarks/FunctionalChain/triplexVoter/triplexVoter_str.lus,l2l1,1.112,3,180,8,0,0,Not Found,safe,4 3,1.41
